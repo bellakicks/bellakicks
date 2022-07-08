@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @bellakicks
 - 👀 I’m interested in crypto and NFTs
-- 🌱 I’m currently learning blockchain code
+- 🌱 I'm currently in a undergrad degree program for cs at ucf
 - 📫 How to reach me 329qld5@gmail.com
 
 <!---
